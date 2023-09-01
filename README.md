@@ -18,11 +18,7 @@ The project defines an imaginary computer model with essential components:
 - Memory with 1024 cells (words), each 12 bits in size
 - Arithmetic operations for integers (no support for real numbers)
 - Support for characters and ASCII representation
-
-## Getting Started
-
-To start using the assembler, please refer to the project documentation for installation and usage instructions.
-
+  
 ## License
 
 This project is open-source and is released under the [MIT License](LICENSE).
