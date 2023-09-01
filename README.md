@@ -25,4 +25,4 @@ To start using the assembler, please refer to the project documentation for inst
 
 ## License
 
-This project is open-source and is released under the [MIT License](LICENSE).
+This project is open-source and is released under the [MIT License](LICENSE.MD).
