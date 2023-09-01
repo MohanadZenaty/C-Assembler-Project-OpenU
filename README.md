@@ -1,2 +1,7 @@
 # C-Assembler-Project-OpenU
+The main idea of this project is to create an assembler program for a custom assembly language, which will enable programmers to write code in a human-readable symbolic format. This symbolic code will be translated into machine language code that can be executed by a computer's central processing unit (CPU). The project addresses the fundamental concept that computers ultimately understand and execute instructions in binary code, and assembly language serves as an intermediary between higher-level programming languages and machine code.
+
+The purpose of the project is to develop an assembler that can take assembly language source code and convert it into machine code. This assembler simplifies the process of programming for the computer by providing a more user-friendly and human-readable representation of machine instructions. It allows programmers to work with symbolic representations of machine instructions rather than dealing directly with binary code. The resulting machine code can then be loaded onto a computer for execution. The project focuses solely on building the assembler program and does not cover the subsequent stages of linking and loading.
+
+In addition to the assembler, the project defines an imaginary computer model with a CPU, registers, and memory, specifying the size and characteristics of each component. The assembly language designed for this project supports basic arithmetic operations and character data, making it a versatile tool for writing programs to run on this virtual computer.
  
