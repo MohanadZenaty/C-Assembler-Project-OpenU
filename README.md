@@ -1,13 +1,13 @@
-# C Assembly Project
+# Assembly Project in C
 Convert assembly language code into machine code with this assembler, bridging the gap between human-readable instructions and binary execution.
 
 ## Overview
 
-This project focuses on creating an assembler program for a custom assembly language. It aims to bridge the gap between human-readable symbolic code and machine code that computers can execute. The project explores the fundamental concept that computers fundamentally operate in binary code and use assembly language as an intermediary.
+This project is centered around creating an assembler program for a custom assembly language using the C programming language. It aims to bridge the gap between human-readable symbolic code and machine code that computers can execute. The project delves into the fundamental concept that computers fundamentally operate in binary code and use assembly language as an intermediary.
 
 ## Purpose
 
-The purpose of this project is to develop an assembler that simplifies the process of programming for computers. It translates assembly language source code into machine code, enabling programmers to work with a more user-friendly and human-readable symbolic representation of machine instructions. This symbolic code can then be loaded onto a computer for execution. Please note that this project covers the creation of the assembler only and does not address linking and loading stages.
+The primary purpose of this project is to develop an assembler using C that simplifies the process of programming for computers. It translates assembly language source code into machine code, providing programmers with a more user-friendly and human-readable symbolic representation of machine instructions. This symbolic code can then be loaded onto a computer for execution. It's important to note that this project focuses exclusively on the creation of the assembler and does not encompass linking and loading stages.
 
 ## Virtual Computer Model
 
