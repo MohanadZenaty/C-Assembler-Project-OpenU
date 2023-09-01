@@ -1,7 +1,28 @@
-# C-Assembler-Project-OpenU
-The main idea of this project is to create an assembler program for a custom assembly language, which will enable programmers to write code in a human-readable symbolic format. This symbolic code will be translated into machine language code that can be executed by a computer's central processing unit (CPU). The project addresses the fundamental concept that computers ultimately understand and execute instructions in binary code, and assembly language serves as an intermediary between higher-level programming languages and machine code.
+# C Assembly Project
+Convert assembly language code into machine code with this assembler, bridging the gap between human-readable instructions and binary execution.
 
-The purpose of the project is to develop an assembler that can take assembly language source code and convert it into machine code. This assembler simplifies the process of programming for the computer by providing a more user-friendly and human-readable representation of machine instructions. It allows programmers to work with symbolic representations of machine instructions rather than dealing directly with binary code. The resulting machine code can then be loaded onto a computer for execution. The project focuses solely on building the assembler program and does not cover the subsequent stages of linking and loading.
+## Overview
 
-In addition to the assembler, the project defines an imaginary computer model with a CPU, registers, and memory, specifying the size and characteristics of each component. The assembly language designed for this project supports basic arithmetic operations and character data, making it a versatile tool for writing programs to run on this virtual computer.
- 
+This project focuses on creating an assembler program for a custom assembly language. It aims to bridge the gap between human-readable symbolic code and machine code that computers can execute. The project explores the fundamental concept that computers fundamentally operate in binary code and use assembly language as an intermediary.
+
+## Purpose
+
+The purpose of this project is to develop an assembler that simplifies the process of programming for computers. It translates assembly language source code into machine code, enabling programmers to work with a more user-friendly and human-readable symbolic representation of machine instructions. This symbolic code can then be loaded onto a computer for execution. Please note that this project covers the creation of the assembler only and does not address linking and loading stages.
+
+## Virtual Computer Model
+
+The project defines an imaginary computer model with essential components:
+
+- CPU (Central Processing Unit)
+- General registers (r0, r1, r2, r3, r4, r5, r6, r7)
+- Memory with 1024 cells (words), each 12 bits in size
+- Arithmetic operations for integers (no support for real numbers)
+- Support for characters and ASCII representation
+
+## Getting Started
+
+To start using the assembler, please refer to the project documentation for installation and usage instructions.
+
+## License
+
+This project is open-source and is released under the [MIT License](LICENSE.md).
